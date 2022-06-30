@@ -1,0 +1,55 @@
+{
+  "timeStamp": 1656576307854,
+  "version": "1.43.0",
+  "userSettings": {
+    "advancedUserEnabled": true,
+    "alwaysDetachLogger": false,
+    "contextMenuEnabled": false,
+    "externalLists": "https://filters.adtidy.org/extension/ublock/filters/224_optimized.txt\nhttps://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt\nhttps://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/minority-mv.txt\nhttps://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/mv.txt\nhttps://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt\nhttps://www.i-dont-care-about-cookies.eu/abp/",
+    "importedLists": [
+      "https://filters.adtidy.org/extension/ublock/filters/224_optimized.txt",
+      "https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt",
+      "https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/minority-mv.txt",
+      "https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/mv.txt",
+      "https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt",
+      "https://www.i-dont-care-about-cookies.eu/abp/"
+    ],
+    "popupPanelSections": 31,
+    "showIconBadge": false,
+    "tooltipsDisabled": true
+  },
+  "selectedFilterLists": [
+    "user-filters",
+    "ublock-badware",
+    "ublock-privacy",
+    "ublock-quick-fixes",
+    "ublock-abuse",
+    "ublock-unbreak",
+    "easyprivacy",
+    "https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt",
+    "https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/mv.txt",
+    "https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/minority-mv.txt",
+    "https://filters.adtidy.org/extension/ublock/filters/224_optimized.txt",
+    "https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt",
+    "https://www.i-dont-care-about-cookies.eu/abp/"
+  ],
+  "hiddenSettings": {
+    "selfieAfter": 11
+  },
+  "whitelist": [
+    "# edge-scheme",
+    "chrome-extension-scheme",
+    "chrome-scheme",
+    "moz-extension-scheme",
+    "opera-scheme",
+    "shensz-t.17zuoye.com",
+    "support.hp.com",
+    "vivaldi-scheme",
+    "wyciwyg-scheme",
+    "zx.17zuoye.com"
+  ],
+  "dynamicFilteringString": "* alicdn.com * noop\n* aliyun.com * noop\n* datax.baidu.com * noop\n* libs.baidu.com * noop\n* lib.baomitu.com * noop\n* bcebos.com * noop\n* bdimg.com * noop\n* bdstatic.com * noop\n* bing.com * noop\n* bootcss.com * noop\n* cctvpic.com * noop\n* cdn-go.cn * noop\n* cloudflare.com * noop\n* cntv.cn * noop\n* doubanio.com * noop\n* douyucdn.cn * noop\n* dyncdn.me * noop\n* geetest.com * noop\n* github.com * noop\n* google.com * noop\n* googleapis.com * noop\n* gstatic.cn * noop\n* gstatic.com * noop\n* gtimg.cn * noop\n* gtimg.com * noop\n* hdslb.com * noop\n* iqiyipic.com * noop\n* lecloud.com * noop\n* letv.com * noop\n* letvcdn.com * noop\n* live.com * noop\n* migu.cn * noop\n* a.msstatic.com * noop\n* pplive.cn * noop\n* pstatp.com * noop\n* recaptcha.net * noop\n* shankuwang.com * noop\n* sina.cn * noop\n* login.sina.com.cn * noop\n* sinaimg.cn * noop\n* sinajs.cn * noop\n* tedcdn.com * noop\n* tq121.com.cn * noop\n* ytimg.com * noop\n* zhimg.com * noop\n163.com * 3p-script noop\n1905.com * 3p-script noop\nacfun.cn * 3p-script noop\nwww.bilibili.com api.live.bilibili.com * block\nbtsow.one * 3p block\ngithub.com * 3p-script noop\ngithub.io * 3p-script noop\nhaitum.com * 3p-script noop\nhaitum.com * 3p-frame noop\nixigua.com * 3p-script noop\nyatu.tv * 3p-script noop\nyatu.tv * 3p-frame noop\nyouku.com * 3p-script noop",
+  "urlFilteringString": "* http://cdn. * noop\n* https://cdn. * noop\n* https://iqiyi. * noop\n* https://jiexi. * noop\n* https://jx. * noop\n* https://play. * noop\n* https://player. * noop\n* https://youku. * noop",
+  "hostnameSwitchesString": "",
+  "userFilters": "blog.gimhoy.com##.AheRQ5MB\nblog.gimhoy.com##[src*=\"//img.gimhoy.com/cute.jpg\"]\n\n! 2022-03-28 https://www.423down.com\n||www.423down.com/wp-content/themes/D7/img/new.png$image\n"
+}
