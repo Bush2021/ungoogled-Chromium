@@ -1,2 +1,2 @@
-# ungoogled-Chromium
-A Graceful and Powerful Customized Browser,Based on Ungoogled Chromium
+# Chromium
+A Graceful and Powerful Customized Browser,Based on Chromium Sync Hibbiki
