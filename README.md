@@ -1,2 +1,2 @@
 # Chromium
-A Graceful and Powerful Customized Browser,Based on Chromium Sync Hibbiki
+A Elegant and Powerful Customized Browser,Based on Chromium Sync Hibbiki
